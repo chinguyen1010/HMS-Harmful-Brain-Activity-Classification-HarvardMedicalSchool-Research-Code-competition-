@@ -1,4 +1,4 @@
-# HMS-Harmful-Brain-Activity-Classification (sponsore by Harvard Medical School)
+# HMS-Harmful-Brain-Activity-Classification (Research Code Competition sponsor by Harvard Medical School)
 Classify seizures and other patterns of harmful brain activity in critically ill patients
 
 Overview
